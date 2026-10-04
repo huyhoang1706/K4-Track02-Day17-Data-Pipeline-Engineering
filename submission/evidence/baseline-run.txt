@@ -1,0 +1,14 @@
+=== Day 17 pipeline: fresh build 2026-08-10 .. 2026-08-16 ===
+  2026-08-10  bronze+12  tickets:4   events:6   quarantined:0 features[2026-08-10..2026-08-10] snapshot v2026-08-10:1 chunks:2 (embedded 2)
+  2026-08-11  bronze+10  tickets:7   events:11  quarantined:0 features[2026-08-11..2026-08-11] snapshot v2026-08-11:2 chunks:5 (embedded 2)
+  2026-08-12  bronze+12  tickets:12  events:17  quarantined:0 features[2026-08-12..2026-08-12] snapshot v2026-08-12:5 chunks:8 (embedded 1)
+  2026-08-13  bronze+11  tickets:15  events:21  quarantined:1 features[2026-08-13..2026-08-13] snapshot v2026-08-13:6 chunks:10 (embedded 1)
+  2026-08-14  bronze+9   tickets:18  events:25  quarantined:0 features[2026-08-14..2026-08-14] snapshot v2026-08-14:7 chunks:12 (embedded 1)
+  2026-08-15  bronze+13  tickets:20  events:32  quarantined:1 features[2026-08-15..2026-08-15] snapshot v2026-08-15:8 chunks:15 (embedded 1)
+  2026-08-16  bronze+13  tickets:24  events:39  quarantined:0 features[2026-08-16..2026-08-16] snapshot v2026-08-16:10 chunks:22 (embedded 3)
+
+Gold checksums:
+  gold_feature_daily   c50b8851affeb418fcb824e65099d9be
+  gold_training_set    bd80ed585cda944fc9f9d63a63f00316
+  gold_doc_chunks      b49150795e84b6016aa19297b2707a03
+  gold (combined)      f90edc98a9c0d5c6f5ef168dd422fe88
